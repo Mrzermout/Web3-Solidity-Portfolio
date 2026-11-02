@@ -1,4 +1,4 @@
-# Web3-Solidity-Portfolio
+
 # Web3 Solidity Smart Contract Portfolio
 “A practical proof-of-work portfolio containing audited, secure Solidity smart contracts deployed via Remix IDE and OpenZeppelin standards.”
 Welcome to my smart contract development portfolio. This repository serves as a public ledger of my technical proof-of-work in building, auditing, and debugging secure decentralized protocols on the Ethereum Virtual Machine (EVM). 
